@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title></title>
-	<atom:link href="https://tee-mh.github.io/igcleaning/feed/" rel="self" type="application/rss+xml" />
-	<link>https://tee-mh.github.io/igcleaning/</link>
-	<description></description>
+	<title>IG Cleaning</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Cleaning Solutions</description>
 	<lastBuildDate>Sat, 16 Dec 2023 12:24:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -19,36 +19,44 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/12/cropped-logo-1-32x32.png</url>
+	<title>IG Cleaning</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
-		<link>https://tee-mh.github.io/igcleaning/hello-world/</link>
-					<comments>https://tee-mh.github.io/igcleaning/hello-world/#comments</comments>
+		<link>/hello-world/</link>
+					<comments>/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[tafa]]></dc:creator>
 		<pubDate>Sat, 16 Dec 2023 12:24:31 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://tee-mh.github.io/igcleaning/?p=1</guid>
+		<guid isPermaLink="false">/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://tee-mh.github.io/igcleaning/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Architecting Tomorrow: Summit Construction Solutions</title>
-		<link>https://tee-mh.github.io/igcleaning/architecting-tomorrow-summit-construction-solutions/</link>
+		<link>/architecting-tomorrow-summit-construction-solutions/</link>
 		
 		<dc:creator><![CDATA[tafa]]></dc:creator>
 		<pubDate>Fri, 01 Dec 2023 11:49:09 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
 		<guid isPermaLink="false">https://bizbergthemes.com/construction-solutions/?p=86</guid>
 
-					<description><![CDATA[Discover excellence in construction with Summit Construction Solutions. Our team of skilled professionals is dedicated to turning visions into reality. From groundbreaking designs to the final touches, we take pride in delivering projects that stand the test of time. Explore the synergy of creativity and precision as we redefine the art of construction. Join us &#8230;<p class="read-more"> <a class="" href="https://tee-mh.github.io/igcleaning/architecting-tomorrow-summit-construction-solutions/"> <span class="screen-reader-text">Architecting Tomorrow: Summit Construction Solutions</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Discover excellence in construction with Summit Construction Solutions. Our team of skilled professionals is dedicated to turning visions into reality. From groundbreaking designs to the final touches, we take pride in delivering projects that stand the test of time. Explore the synergy of creativity and precision as we redefine the art of construction. Join us &#8230;<p class="read-more"> <a class="" href="/architecting-tomorrow-summit-construction-solutions/"> <span class="screen-reader-text">Architecting Tomorrow: Summit Construction Solutions</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Discover excellence in construction with Summit Construction Solutions. Our team of skilled professionals is dedicated to turning visions into reality. From groundbreaking designs to the final touches, we take pride in delivering projects that stand the test of time. Explore the synergy of creativity and precision as we redefine the art of construction. Join us on a journey where each structure becomes a masterpiece, showcasing our commitment to quality and innovation. Summit Construction Solutions – Building Dreams, Building Futures.</p>
 ]]></content:encoded>
@@ -58,14 +66,14 @@
 			</item>
 		<item>
 		<title>Elevate Your Vision: Stellar Construction Innovations</title>
-		<link>https://tee-mh.github.io/igcleaning/elevate-your-vision-stellar-construction-innovations/</link>
+		<link>/elevate-your-vision-stellar-construction-innovations/</link>
 		
 		<dc:creator><![CDATA[tafa]]></dc:creator>
 		<pubDate>Fri, 01 Dec 2023 11:48:10 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
 		<guid isPermaLink="false">https://bizbergthemes.com/construction-solutions/?p=84</guid>
 
-					<description><![CDATA[At Stellar Construction Innovations, we redefine the landscape of possibilities. With a blend of cutting-edge technology and skilled craftsmanship, we bring your dreams to life. From concept to completion, our commitment to quality and efficiency is unmatched. Explore a world where every structure is a testament to our passion for innovation and excellence. Join us &#8230;<p class="read-more"> <a class="" href="https://tee-mh.github.io/igcleaning/elevate-your-vision-stellar-construction-innovations/"> <span class="screen-reader-text">Elevate Your Vision: Stellar Construction Innovations</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[At Stellar Construction Innovations, we redefine the landscape of possibilities. With a blend of cutting-edge technology and skilled craftsmanship, we bring your dreams to life. From concept to completion, our commitment to quality and efficiency is unmatched. Explore a world where every structure is a testament to our passion for innovation and excellence. Join us &#8230;<p class="read-more"> <a class="" href="/elevate-your-vision-stellar-construction-innovations/"> <span class="screen-reader-text">Elevate Your Vision: Stellar Construction Innovations</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>At Stellar Construction Innovations, we redefine the landscape of possibilities. With a blend of cutting-edge technology and skilled craftsmanship, we bring your dreams to life. From concept to completion, our commitment to quality and efficiency is unmatched. Explore a world where every structure is a testament to our passion for innovation and excellence. Join us on a journey of construction that goes beyond boundaries.</p>
 ]]></content:encoded>
@@ -75,14 +83,14 @@
 			</item>
 		<item>
 		<title>Crafting Dreams: Pioneer Construction Services</title>
-		<link>https://tee-mh.github.io/igcleaning/crafting-dreams-pioneer-construction-services/</link>
+		<link>/crafting-dreams-pioneer-construction-services/</link>
 		
 		<dc:creator><![CDATA[tafa]]></dc:creator>
 		<pubDate>Fri, 01 Dec 2023 11:47:16 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
 		<guid isPermaLink="false">https://bizbergthemes.com/construction-solutions/?p=82</guid>
 
-					<description><![CDATA[Welcome to Pioneer Construction Services, where expertise meets ambition. Our commitment to excellence shines through in every project. From groundbreaking to finishing touches, we bring visions to life with precision and dedication. Explore the art of construction with us, where each structure tells a unique story of innovation and reliability. Join us in building a &#8230;<p class="read-more"> <a class="" href="https://tee-mh.github.io/igcleaning/crafting-dreams-pioneer-construction-services/"> <span class="screen-reader-text">Crafting Dreams: Pioneer Construction Services</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Welcome to Pioneer Construction Services, where expertise meets ambition. Our commitment to excellence shines through in every project. From groundbreaking to finishing touches, we bring visions to life with precision and dedication. Explore the art of construction with us, where each structure tells a unique story of innovation and reliability. Join us in building a &#8230;<p class="read-more"> <a class="" href="/crafting-dreams-pioneer-construction-services/"> <span class="screen-reader-text">Crafting Dreams: Pioneer Construction Services</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to Pioneer Construction Services, where expertise meets ambition. Our commitment to excellence shines through in every project. From groundbreaking to finishing touches, we bring visions to life with precision and dedication. Explore the art of construction with us, where each structure tells a unique story of innovation and reliability. Join us in building a better tomorrow.</p>
 ]]></content:encoded>
@@ -92,14 +100,14 @@
 			</item>
 		<item>
 		<title>Dynamic Construction Solutions: Building Tomorrow, Today</title>
-		<link>https://tee-mh.github.io/igcleaning/dynamic-construction-solutions-building-tomorrow-today/</link>
+		<link>/dynamic-construction-solutions-building-tomorrow-today/</link>
 		
 		<dc:creator><![CDATA[tafa]]></dc:creator>
 		<pubDate>Fri, 01 Dec 2023 11:40:37 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
 		<guid isPermaLink="false">https://bizbergthemes.com/construction-solutions/?p=78</guid>
 
-					<description><![CDATA[Embark on a journey with Dynamic Construction Solutions, where innovation meets craftsmanship. Our expert team is dedicated to transforming visions into reality. From groundbreaking designs to meticulous execution, we redefine construction excellence. Explore a seamless blend of tradition and technology, ensuring every project stands as a testament to our commitment to quality and sustainability. Discover &#8230;<p class="read-more"> <a class="" href="https://tee-mh.github.io/igcleaning/dynamic-construction-solutions-building-tomorrow-today/"> <span class="screen-reader-text">Dynamic Construction Solutions: Building Tomorrow, Today</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Embark on a journey with Dynamic Construction Solutions, where innovation meets craftsmanship. Our expert team is dedicated to transforming visions into reality. From groundbreaking designs to meticulous execution, we redefine construction excellence. Explore a seamless blend of tradition and technology, ensuring every project stands as a testament to our commitment to quality and sustainability. Discover &#8230;<p class="read-more"> <a class="" href="/dynamic-construction-solutions-building-tomorrow-today/"> <span class="screen-reader-text">Dynamic Construction Solutions: Building Tomorrow, Today</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[
 <p>Embark on a journey with Dynamic Construction Solutions, where innovation meets craftsmanship. Our expert team is dedicated to transforming visions into reality. From groundbreaking designs to meticulous execution, we redefine construction excellence. Explore a seamless blend of tradition and technology, ensuring every project stands as a testament to our commitment to quality and sustainability. Discover the future of construction with us! </p>
 ]]></content:encoded>
